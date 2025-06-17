@@ -115,4 +115,6 @@ Use these commands:
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16.06.2025 05:34:33
+
+
+Update: Script links
